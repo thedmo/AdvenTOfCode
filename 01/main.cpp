@@ -7,7 +7,7 @@
 
 int main() {
   std::ifstream input;
-  input.open("C:/Users/MinJa/dev/AdventOfCode/01/input.txt");
+  input.open("../../input.txt");
 
   std::cout << "Beginning to count..." << std::endl;
 
