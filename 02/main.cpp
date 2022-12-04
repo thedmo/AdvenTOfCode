@@ -72,7 +72,7 @@ int GetMyPick(int elven_pick, char condition_char) {
 }
 
 int main(int, char**) {
-  std::ifstream input("../input.txt");
+  std::ifstream input("../../input.txt");
 
   std::string line;
 
